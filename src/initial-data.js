@@ -9,7 +9,7 @@ const initialData = {
 		column1 : {
 			'id' : 'column1',
 			'title' : 'To do',
-			'tasksIds' : ['task1', 'tast2', 'tast3', 'tast4'],
+			'taskIds' : ['task1', 'tast2', 'tast3', 'tast4'],
 		},
 	},
 	columnOrder : ['column1'],
